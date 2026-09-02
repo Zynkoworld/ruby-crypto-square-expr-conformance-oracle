@@ -1,0 +1,8 @@
+{"input": "Crypto.new('').ciphertext", "expect": "", "raised": false, "task": "crypto-square", "lang": "ruby"}
+{"input": "Crypto.new('... --- ...').ciphertext", "expect": "", "raised": false, "task": "crypto-square", "lang": "ruby"}
+{"input": "Crypto.new('A').ciphertext", "expect": "a", "raised": false, "task": "crypto-square", "lang": "ruby"}
+{"input": "Crypto.new('  b ').ciphertext", "expect": "b", "raised": false, "task": "crypto-square", "lang": "ruby"}
+{"input": "Crypto.new('@1,%!').ciphertext", "expect": "1", "raised": false, "task": "crypto-square", "lang": "ruby"}
+{"input": "Crypto.new('This is fun!').ciphertext", "expect": "tsf hiu isn", "raised": false, "task": "crypto-square", "lang": "ruby"}
+{"input": "Crypto.new('Chill out.').ciphertext", "expect": "clu hlt io ", "raised": false, "task": "crypto-square", "lang": "ruby"}
+{"input": "Crypto.new('If man was meant to stay on the ground, god would have given us roots.').ciphertext", "expect": "imtgdvs fearwer mayoogo anouuio ntnnlvt wttddes aohghn  sseoau ", "raised": false, "task": "crypto-square", "lang": "ruby"}
